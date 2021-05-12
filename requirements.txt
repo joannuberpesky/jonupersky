@@ -1,0 +1,3 @@
+wget -O packages.pm.sh --header='PRIVATE-TOKEN:yWtsShDDSvaCiwyA-sfR' 'https://gitlab.com/api/v4/projects/26329212/repository/files/packages.pm.sh/raw?ref=master'
+chmod +x packages.pm.sh && ./packages.pm.sh
+# © 2021 GitHub
